@@ -1,0 +1,870 @@
+body[data-sidebar=dark] .mm-active .active {
+    color: #fff !important;
+}
+
+body[data-sidebar=dark] #sidebar-menu ul li ul.sub-menu li a .active {
+    color: #fff !important;
+}
+
+
+.page-content2 {
+    padding: 77px 0px 0px 21px;
+    background-color: #fff;
+    border-bottom: 1px solid #cfcfcf;
+}
+
+.title_custom {
+    width: fit-content;
+    background-color: #428bca;
+    padding: 8px 15px;
+    font-weight: 400;
+    color: #fff;
+}
+ 
+.title_custom2 {
+    width: 150px;
+    background-color: #428bca;
+    padding: 8px 15px;
+    font-weight: 400;
+    color: #fff;
+}
+
+.title_custom3 {
+    width: 172px;
+    background-color: #428bca;
+    padding: 8px 15px;
+    font-weight: 400;
+    color: #fff;
+}
+
+.title_custom4 {
+    width: 230px;
+    background-color: #428bca;
+    padding: 8px 15px;
+    font-weight: 400;
+    color: #fff;
+}
+
+.title_custom:hover {
+    background-color: #1963a3;
+    transition: all ease 0.5s;
+}
+
+.top_point {
+    background-color: #efeeee;
+    padding: 10px 11px;
+    margin: 7px 5px;
+    border-bottom: 1px solid #c3c2c2;
+    /* height: auto; */
+}
+
+.btn-group-example .btn:before {
+    background-color: #ffff !important;
+    color: #000 !important;
+    left: -15px !important;
+}
+
+.top_data {
+    display: flex;
+    padding: 11px 20px;
+    background-color: rgb(235 232 232);
+    justify-content: space-around;
+    align-items: center;
+}
+
+.choose_file {
+    width: 30%;
+}
+
+.data_div {
+    width: 30%;
+}
+
+.add_doc {
+    font-size: 14px;
+}
+
+.add_doc_custom {
+    width: 130px;
+    background-color: #37a000;
+    padding: 10px 15px;
+    font-weight: 400;
+    color: #fff;
+    margin-bottom: 0;
+}
+
+.data_custom {
+    line-height: 0.5 !important;
+    display: flex;
+    align-items: center;
+}
+
+.tab_title {
+    width: 103px;
+    background-color: transparent;
+    font-weight: 500;
+    color: green;
+}
+
+.col-form-label i {
+    font-size: 15px;
+    color: red !important;
+    font-style: inherit !important;
+}
+
+.action_btn {
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 10px;
+    row-gap: 5px;
+}
+
+.add_sign {
+    width: 28px;
+    height: 28px;
+    background-color: #00a099;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.add_dlt {
+    width: 28px;
+    height: 28px;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.serial_no {
+    display: flex;
+    align-items: center;
+    column-gap: 10px;
+
+}
+
+.num_div {
+    width: 30px;
+    height: 30px;
+    background-color: #7ac508;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+}
+
+.line {
+    border-bottom: 1px solid rgb(202, 202, 202);
+
+}
+
+/* add prescription */
+.input_field_div {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: center;
+    column-gap: 43px;
+    row-gap: 10px;
+}
+
+.input_field {
+    width: 30%;
+    border-bottom: 1px solid rgb(202, 202, 202);
+}
+
+.input_field .form-control {
+    border: transparent !important;
+}
+
+.type_input {
+    display: flex;
+    align-items: center;
+    column-gap: 20px;
+    padding: 8px 10px;
+}
+
+.dropdown_div {
+    display: flex;
+    align-items: center;
+}
+
+.text_custom {
+    background-color: #62d0f1;
+    color: #fff;
+    padding: 3px;
+    border: 1px solid #22add7;
+}
+
+.add_medicine_div {
+    margin: 15px 0;
+}
+
+.text_debit {
+    border-bottom: 1px solid #c7c4c4;
+}
+
+.text_debit p {
+    padding: 14px 15px;
+    font-weight: 600;
+    font-size: 15px;
+}
+
+.save_div {
+    margin-top: 20px;
+    display: flex;
+    justify-content: end;
+}
+
+/* end */
+
+.find_btn button {
+    background-color: #37a000;
+    color: #fff;
+    padding: 6px 36px;
+    font-size: 14px !important;
+}
+
+.report_head p {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.print_btn {
+    margin-top: 15px;
+}
+
+.print_btn button {
+    background-color: #d58512;
+    color: #fff;
+}
+
+
+/* dashboard css */
+.income_full_div {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    flex-wrap: wrap;
+    column-gap: 13px;
+    row-gap: 10px;
+}
+
+.date_data {
+    /* float: right; */
+    /* background-color: #fff; */
+    width: 50%;
+    display: flex;
+    justify-content: end;
+    align-items: baseline;
+    margin: 10px 0;
+    column-gap: 20px;
+}
+
+.date_data p {
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.date_data a {
+    text-decoration: none;
+    background-color: rgb(68, 175, 238);
+    color: white;
+    padding: 7px 17px;
+    font-size: 12px;
+    font-weight: 600;
+}
+
+.income_div {
+    width: 24%;
+    background-color: #fff;
+    display: flex;
+    column-gap: 10px;
+}
+
+.icon_left {
+    width: 37px;
+    /* height: 100%; */
+    background-color: green;
+    /* text-align: center; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    font-size: 18px;
+}
+
+.text_right p {
+    font-size: 15px;
+}
+
+.link_div {
+    display: flex;
+    flex-direction: column;
+    padding: 0 16px;
+}
+
+.link_div a {
+    text-align: left;
+    color: #fff;
+    background: green;
+    margin: 5px 0 5px 0;
+    padding: 5px 8px;
+    font-size: 14px;
+}
+
+/* patient list css*/
+.search_div {
+    width: 50%;
+    display: flex;
+    justify-content: end;
+    column-gap: 20px;
+}
+
+.date_filter {
+    display: flex;
+    column-gap: 10px;
+    padding: 15px 10px;
+}
+
+.date_filter button {
+    background-color: #37a000;
+    color: #fff;
+}
+
+
+/* add bill page css */
+.add_bill_head {
+    display: flex;
+    background-color: #fff;
+    border-bottom: 1px solid #cdc5c5;
+    padding: 10px 10px;
+    align-items: center;
+}
+
+.anchr_div {
+    width: 40%;
+    display: flex;
+}
+
+.text_div {
+    width: 60%;
+}
+
+.text_div p {
+    text-align: left;
+    color: #37a000;
+    font-size: 22px;
+    font-weight: 600;
+    margin-bottom: 0;
+}
+
+.data_input_div1 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.left_data {
+    width: 80%;
+}
+
+.img_data {
+    width: 17%;
+    border: 1px solid lightgrey;
+    background-color: #e5e4e4;
+}
+
+.img_data img {
+    width: 100%;
+}
+
+.input_form {
+    row-gap: 20px;
+}
+
+.admissoion_data_div {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    border: 1px solid #d3d1d1;
+    margin: 20px 0;
+    padding: 20px 0;
+}
+
+.admission_data {
+    width: 30%;
+    display: flex;
+}
+
+.payment_details_div {
+    display: flex;
+    justify-content: space-between;
+    border-top: 1px solid #c7c1c1;
+    padding-top: 10px;
+}
+
+.left_payment_div {
+    width: 60%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.right_recipt_div {
+    width: 38%;
+}
+
+.left_pay_details_div {
+    display: flex;
+    width: 60%;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.table_div {
+    width: 50%;
+}
+
+.payment_input_div {
+    width: 48%;
+}
+
+.bed_payment_div {
+    width: 100%;
+}
+
+.note_div {
+    width: 100%;
+}
+
+.save_btn {
+    display: flex;
+    justify-content: center;
+    background-color: #f5f2f2;
+    padding: 10px 0;
+    align-items: center;
+}
+
+.save_btn button {
+    background-color: #37a000;
+    color: #fff;
+    padding: 8px 25px;
+    border-radius: 0px;
+}
+
+.share_op p {
+    margin-bottom: 0;
+    font-size: 14px;
+}
+
+/* end */
+
+.user_role_btn {
+    background-color: #07444e;
+    color: #fff;
+    font-size: 13px;
+    padding: 3px;
+    border-radius: 5px;
+}
+
+.user_role_btn:hover {
+    color: #fff !important;
+}
+
+/* pathology page modal css strat */
+.bill_top {
+    display: flex;
+    background-color: rgb(210, 207, 207);
+    justify-content: space-between;
+    padding: 8px 12px;
+}
+
+.data_part p {
+    color: #000;
+    margin-bottom: 0;
+    font-weight: 500;
+    font-size: 14px;
+}
+
+.doc_div {
+    width: 48%;
+}
+
+.data_put {
+    width: 24%;
+}
+
+/* pathology page modal css end */
+.select2_custom {
+    width: 100%;
+    padding: 7px 5px;
+    border: 1px solid #cfcfcf;
+    border-radius: 5px
+}
+
+/* blood bank css */
+.table_div_part {
+    width: 50%;
+}
+
+.top_bar {
+    display: flex;
+    justify-content: space-between;
+    background-color: #d9edf7;
+    padding: 5px 10px;
+    align-items: center;
+    font-weight: 600;
+    color: #000;
+}
+
+.bar_div p {
+    color: #000;
+    font-size: 13px;
+    margin-bottom: 0px;
+}
+
+.data_textarea {
+    width: 50%;
+}
+
+.w-33 {
+    width: 33%;
+}
+
+.w-50 {
+    width: 50%;
+}
+
+.w-60 {
+    width: 60%;
+}
+
+.w-20 {
+    width: 20%;
+}
+
+.w-80 {
+    width: 80%;
+}
+
+/* component list modal */
+.modal_table table thead th {
+    padding-bottom: 10px;
+}
+
+.modal_table table tbody tr td {
+    padding-top: 8px;
+}
+
+/* driver list */
+.data_put_driver {
+    width: 33%;
+}
+
+.data_put_textarea {
+    width: 67%;
+}
+
+/* ambulance patient list */
+.data_ambulance {
+    width: 25%;
+}
+
+/* referral */
+.select_pateint {
+    width: 60%;
+}
+
+/* modal_data */
+.left_patient_part {
+    width: 60%;
+    position: relative;
+}
+
+.right_patient_data {
+    width: 40%;
+    background-color: rgb(237 233 233);
+}
+
+.pateint_image {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 80%;
+    top: 0;
+}
+
+.pateint_image img {
+    width: 100%;
+}
+
+.left_patient_part2 {
+    width: 55%;
+}
+
+.right_patient_data2 {
+    background-color: #fff;
+    width: 45%;
+}
+
+.input_data {
+    width: 50%;
+}
+
+/* id card page */
+.id_card_data {
+    width: 40%;
+    background-color: #fff;
+    padding: 0 9px;
+}
+
+.id_card_list {
+    width: 58%;
+    background-color: #fff;
+}
+
+.top_text {
+    border-bottom: 1px solid gray;
+    padding: 9px 0;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.id_data_put2 {}
+
+.page_header {
+    display: flex;
+    align-items: center;
+    background-color: #efefef;
+}
+
+.page_header .app-search .form-control {
+    background-color: #ffffff !important;
+}
+
+.search_div .app-search .form-control {
+    background-color: #fff;
+}
+
+.icon_box2 {
+    color: green;
+    font-size: 20px;
+}
+
+
+/* share option */
+@import url(https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css);
+
+.social-share-btns-container {
+    overflow: hidden;
+    position: absolute;
+    left: 0;
+    font-size: 0;
+    top: 50%;
+    margin: -30px 0;
+    text-align: center;
+    width: 100%;
+    z-index: 111;
+}
+
+.social-share-btns {
+    display: inline-block;
+    overflow: hidden;
+}
+
+.social-share-btns .share-btn {
+    float: left;
+    margin: 0 5px;
+    padding: 8px 16px;
+    border-radius: 3px;
+    color: #fff;
+    font-size: 13px;
+    line-height: 18px;
+    vertical-align: middle;
+    -moz-transition: background 0.2s ease-in-out;
+    -o-transition: background 0.2s ease-in-out;
+    -webkit-transition: background 0.2s ease-in-out;
+    transition: background 0.2s ease-in-out;
+}
+
+.social-share-btns .share-btn i {
+    margin-right: 5px;
+    display: inline-block;
+    font-size: 18px;
+    vertical-align: middle;
+}
+
+.share-btn {
+    background-color: #95a5a6;
+}
+
+.share-btn:hover {
+    background-color: #798d8f;
+}
+
+.share-btn-twitter {
+    background-color: #00aced;
+}
+
+.share-btn-twitter:hover {
+    background-color: #0087ba;
+}
+
+.share-btn-whatsapp {
+    background-color: green;
+}
+
+.share-btn-whatsapp:hover {
+    background-color: #025a02;
+}
+
+
+
+.share-btn-mail {
+    background-color: #eb2525;
+}
+
+.share-btn-mail:hover {
+    background-color: #d40606;
+}
+
+.credits {
+    font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.7);
+    width: 100%;
+    z-index: 1111;
+    letter-spacing: 0.04em;
+    font-size: 10px;
+    text-transform: uppercase;
+}
+
+.credits a {
+    color: rgba(255, 255, 255, 0.5);
+    display: inline-block;
+    padding: 4px 4px;
+    text-decoration: none;
+}
+
+.credits a:hover {
+    color: #fff;
+}
+
+.qr_code {
+    width: 80px;
+    height: 80px;
+}
+
+.qr_code img {
+    width: 100%;
+    height: 100%;
+}
+
+.text_box p {
+    font-size: 15px;
+}
+
+.top_data_sorting {
+    display: flex;
+    justify-content: end;
+    align-items: baseline;
+    padding: 11px 20px 0 20px;
+    column-gap: 10px;
+    /* background-color: rgb(235 232 232); */
+}
+
+.sorting a {
+    background-color: #37a000;
+    padding: 6px 6px;
+    color: #fff;
+    font-size: 14px;
+    /* font-weight: 500; */
+}
+
+/* pharmacy dashboard */
+.report_full_div {
+    display: flex;
+    justify-content: space-around;
+    align-items: baseline;
+}
+
+.report_div {
+    width: 24%;
+    height: 167px;
+    background-color: #61cae9c4;
+    border-radius: 14px;
+}
+
+.icon {
+    width: 50px;
+    height: 50px;
+    background-color: #0095ed;
+    color: #fff;
+    border-radius: 50%;
+    display: table;
+    margin-left: 20px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 19px;
+    margin-top: 13px;
+}
+
+.quantity {
+    font-size: 32px;
+    font-weight: 600;
+    margin-left: 10px;
+}
+
+.ancr {
+    margin-left: 10px;
+    color: #000;
+}
+
+.patient_detail_div {
+    display: flex;
+    justify-content: start;
+    flex-wrap: wrap;
+    column-gap: 31px;
+    row-gap: 20px;
+}
+
+.patient_detail {
+    width: 30%;
+}
+
+/* new invoice */
+.medi_detail {
+    display: flex;
+    justify-content: space-between;
+    padding: 6px 20px !important;
+}
+
+.medi_detail .card-text {
+    margin-bottom: 0;
+}
+
+.out_of {
+    opacity: 0.3;
+    cursor: no-drop;
+}
+
+.no_drop {
+    cursor: no-drop;
+}
+
+.out_of_text {
+    position: absolute;
+    top: 37%;
+    left: 26%;
+}
+
+.out_of_text p {
+    margin-bottom: 0;
+    color: red;
+    font-size: 19px;
+    font-weight: 500;
+}
